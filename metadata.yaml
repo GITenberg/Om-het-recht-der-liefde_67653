@@ -1,0 +1,31 @@
+_repo: Om-het-recht-der-liefde_67653
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fokker, Abraham Anthony
+    birthdate: 1862
+    deathdate: 1927
+    gutenberg_agent_id: '24924'
+    url: http://www.gutenberg.org/2009/agents/24924
+    wikipedia: http://www.gutenberg.org/ebooks/author/52704
+description: ''
+gutenberg_issued: '2022-03-18'
+identifiers:
+  gutenberg: '67653'
+language: nl
+pgterms:marc905: 20181011105011fokker
+pgterms:marc906: '1908'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (Scans from the Koninklijke Bibliotheek,
+  The Hague)
+publication_note: Netherlands :Scheltens & Giltay,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indonesia -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Om het recht der liefde
+url: http://www.gutenberg.org/ebooks/67653
