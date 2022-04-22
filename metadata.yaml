@@ -1,5 +1,8 @@
 _repo: Om-het-recht-der-liefde_67653
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67653-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Fokker, Abraham Anthony
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24924
     wikipedia: http://www.gutenberg.org/ebooks/author/52704
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67653#Om-het-recht-der-liefde
 gutenberg_issued: '2022-03-18'
 identifiers:
   gutenberg: '67653'
